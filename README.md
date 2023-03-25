@@ -7,6 +7,9 @@ A Dynamic web application known as “Vehicle Parking Booking System” is propo
 According to the proposed system the customer(user) will be provided with the application where he can check for the availability of parking lots at any place and at any time, and he can also book his lot selecting a valid time period for which he may use it. Even the admin can access easy track of bookings proceeded on a particular day.
 
 
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/79695204/227699741-59fb338a-da8a-4220-9b29-7a8de417070b.png">
+
+
 This project helps the customer to save their time in search of parking areas, he can directly use the application to check the availability of the parking place, and he can book the parking place at his required timings, and there will be no reason to worry about the parking place. So, this project helps to simplify the parking procedure for urban societies and save their precious time
  
 
